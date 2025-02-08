@@ -93,12 +93,7 @@
       </a>
       <br>Web3.js
     </td>
-    <td align="center"  width="140" height="112.43">
-      <a href="#macropower-tech">
-        <img src="./ethers.svg" width="65" height="50" alt="ethers" />
-      </a>
-      <br>Ethers.js
-    </td>
+ 
    </tr>
   </tr>
   
@@ -128,10 +123,10 @@
   📫 You can reach me:
      </P
   </br>
-  <a href="https://www.linkedin.com/in/thalesbmc/"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-128.png" width="80">
+  <a href="https://www.linkedin.com/in/saqeeb-ahmed-482469154/"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-128.png" width="80">
   </br>
   </br>
-  <a href="mailto:thalesbmc@gmail.com"><img src="./gmail.png" width="80"></a>
+  <a href="mailto:saqeeb108@gmail.com"><img src="./gmail.png" width="80"></a>
 
 </td>
 </table>
@@ -152,22 +147,18 @@
 <h2 align="center">Repositories</h2>
 
 <div width="100%" align="center">
-   <a align="right" href="https://github.com/ThalesBMC/NFTMarketplace" title="NFT Marketplace"><img align="left"  height="115px" src="https://github-readme-stats.vercel.app/api/pin/?username=thalesbmc&repo=NFTMarketplace&theme=nightowl"></a>
-
-   <a align="left" href="https://github.com/ThalesBMC/web3-youtube" title="Decentralized Youtube"><img align="right" height="115px" src="https://github-readme-stats.vercel.app/api/pin/?username=thalesbmc&repo=web3-youtube&theme=nightowl"></a>
-
- 
+   <a align="right" href="https://github.com/saqee/OnlineDoctors_Appointment" title="Online Doctors Appointment"><img align="left"  height="115px" src="https://github-readme-stats.vercel.app/api/pin/?username=thalesbmc&repo=NFTMarketplace&theme=nightowl"></a>
 </div>
 <br/><br/>
 <div width="100%" align="center">
-       <a align="left" href="https://github.com/ThalesBMC/TylesClothing" title="Clothing store"><img align="right" height="115px" src="https://github-readme-stats.vercel.app/api/pin/?username=thalesbmc&repo=TylesClothing&theme=nightowl"></a>
-  <a align="right" href="https://github.com/ThalesBMC/coin-widget" title="Coin Widget with Next.js"><img align="left" height="115px" src="https://github-readme-stats.vercel.app/api/pin/?username=thalesbmc&repo=coin-widget&theme=nightowl"></a>
+       <a align="left" href="https://github.com/saqee/university-management-auth" title="University Auth Management"><img align="right" height="115px" src="https://github-readme-stats.vercel.app/api/pin/?username=thalesbmc&repo=TylesClothing&theme=nightowl"></a>
+  <a align="right" href="https://github.com/saqee/expo_mobile_application" title="Video streaming mobile app"><img align="left" height="115px" src="https://github-readme-stats.vercel.app/api/pin/?username=thalesbmc&repo=coin-widget&theme=nightowl"></a>
 
 </div>
 <br/><br/>
 <br/><br/><br/><br/><br/><br/>
 <h4 align="center" marginTop="70px">
-  <a href="https://github.com/ThalesBMC?tab=repositories" title="Show Repositories">Show More 🔎</a>
+  <a href="https://github.com/saqee" title="Show Repositories">Show More 🔎</a>
  </h4>
 
  <a href="https://github.com/MacroPower/ThalesBMC" marginTop="40px">
