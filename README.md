@@ -133,11 +133,6 @@
 <br>
 
 </br>
-<p align="center">
-    <img alt="Ethereum" src="https://avatars.githubusercontent.com/u/6250754?s=200&v=4" width="200" />
-</p>
-<br>
-<br>
 
 </br>
 
@@ -147,12 +142,12 @@
 <h2 align="center">Repositories</h2>
 
 <div width="100%" align="center">
-   <a align="right" href="https://github.com/saqee/OnlineDoctors_Appointment" title="Online Doctors Appointment"><img align="left"  height="115px" src="https://github-readme-stats.vercel.app/api/pin/?username=thalesbmc&repo=NFTMarketplace&theme=nightowl"></a>
+   <a align="right" href="https://github.com/saqee/OnlineDoctors_Appointment" title="Online Doctors Appointment">Online Doctors Appointment</a>
 </div>
 <br/><br/>
 <div width="100%" align="center">
-       <a align="left" href="https://github.com/saqee/university-management-auth" title="University Auth Management"><img align="right" height="115px" src="https://github-readme-stats.vercel.app/api/pin/?username=thalesbmc&repo=TylesClothing&theme=nightowl"></a>
-  <a align="right" href="https://github.com/saqee/expo_mobile_application" title="Video streaming mobile app"><img align="left" height="115px" src="https://github-readme-stats.vercel.app/api/pin/?username=thalesbmc&repo=coin-widget&theme=nightowl"></a>
+       <a align="left" href="https://github.com/saqee/university-management-auth" title="University Auth Management"> PH University Management</a>
+  <a align="right" href="https://github.com/saqee/expo_mobile_application" title="Video streaming mobile app">Video streaming mobile app</a>
 
 </div>
 <br/><br/>
