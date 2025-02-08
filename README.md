@@ -1,6 +1,3 @@
-# README.md
-
-
 
 
 
@@ -176,3 +173,9 @@
  <a href="https://github.com/MacroPower/ThalesBMC" marginTop="40px">
     <img src="https://komarev.com/ghpvc/?username=thalesbmc" alt="page views" />
  </a>
+
+
+
+
+
+
